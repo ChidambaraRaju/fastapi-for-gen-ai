@@ -27,13 +27,12 @@ It contains:
 
 ## ⚡ Tech Stack
 - [FastAPI](https://fastapi.tiangolo.com/)  
-- Python 3.x  
-- (Later: Databases, Authentication, Deployment, etc.)  
+- Python
 
 ---
 
 ## 🙏 Learning Resource Credits
-A huge thanks to [Nitish Singh]((https://github.com/campusx-official)) whose tutorials I’m following to learn [FastAPI]((https://www.youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ)):  
+A huge thanks to [Nitish Singh](https://github.com/campusx-official) whose tutorials I’m following to learn [FastAPI](https://www.youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ):  
 
 
 Without these amazing resources, this journey wouldn’t be possible! 🚀  
