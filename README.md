@@ -11,9 +11,9 @@ It contains:
 ---
 
 ## 📑 Contents
-1. [Introduction](./01_intro/notes.md)
-2. [FastAPI Overview](./02_path_params/notes.md)  
-3. [Hello World API](./03_crud/notes.md)  
+1. [Introduction](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/blob/main/fastapi/1_introduction.md)
+2. [FastAPI Overview](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/blob/main/fastapi/2_fastapi_overview.md)  
+3. [Hello World API](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/blob/main/fastapi/3_hello_world_api.py)  
 4. *More coming soon...*  
 
 ---
@@ -27,13 +27,12 @@ It contains:
 
 ## ⚡ Tech Stack
 - [FastAPI](https://fastapi.tiangolo.com/)  
-- Python 3.x  
-- (Later: Databases, Authentication, Deployment, etc.)  
+- Python
 
 ---
 
 ## 🙏 Learning Resource Credits
-A huge thanks to [Nitish Singh]((https://github.com/campusx-official)) whose tutorials I’m following to learn [FastAPI]((https://www.youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ)):  
+A huge thanks to [Nitish Singh](https://github.com/campusx-official) whose tutorials I’m following to learn [FastAPI](https://www.youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ):  
 
 
 Without these amazing resources, this journey wouldn’t be possible! 🚀  
