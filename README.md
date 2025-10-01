@@ -11,9 +11,9 @@ It contains:
 ---
 
 ## 📑 Contents
-1. [Introduction](./01_intro/notes.md)
-2. [FastAPI Overview](./02_path_params/notes.md)  
-3. [Hello World API](./03_crud/notes.md)  
+1. [Introduction](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/blob/main/fastapi/1_introduction.md)
+2. [FastAPI Overview](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/blob/main/fastapi/2_fastapi_overview.md)  
+3. [Hello World API](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/blob/main/fastapi/3_hello_world_api.py)  
 4. *More coming soon...*  
 
 ---
