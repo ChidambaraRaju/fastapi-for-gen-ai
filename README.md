@@ -14,7 +14,11 @@ It contains:
 1. [Introduction](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/blob/main/fastapi/1_introduction.md)
 2. [FastAPI Overview](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/blob/main/fastapi/2_fastapi_overview.md)  
 3. [Hello World API](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/blob/main/fastapi/3_hello_world_api.py)  
-4. *More coming soon...*  
+4. [HTTP Methods](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/blob/main/fastapi/4_http_methods.md)
+5. [Status Codes](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/blob/main/fastapi/5_status_codes.md)
+6. [Path and Query Params](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/blob/main/fastapi/6_path_and_query_params.md)
+7. [Capston Project - Patient Management System](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/blob/main/fastapi/7_patient_management_system.py)
+8. [Serving ML Model](https://github.com/ChidambaraRaju/fastapi-for-gen-ai/tree/main/fastapi/8_serving_ml_model)
 
 ---
 
